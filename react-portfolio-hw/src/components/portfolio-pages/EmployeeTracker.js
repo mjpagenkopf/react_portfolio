@@ -18,7 +18,7 @@ export default function EmployeeTracker() {
                 </Col>
 
                 <Col className="employee-tracker-right">
-                    <h1 className="text-center">Ecommerce Back End Application</h1>
+                    <h1 className="text-center">Employee Tracker</h1>
                     <p className="text-center">This is a back-end e-commerce application that stores an assortment of products and details contained in numerous tables within a single database. These products are associated with their details using through models.</p>
                     <div className="text-center">
                         <Button variant="light" size='lg'>
