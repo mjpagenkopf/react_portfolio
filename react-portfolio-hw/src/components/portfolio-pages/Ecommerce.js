@@ -17,18 +17,18 @@ export default function Ecommerce() {
                     <p className="text-center">This is a back-end e-commerce application that stores an assortment of products and details contained in numerous tables within a single database. These products are associated with their details using through models.</p>
                     <div className="text-center">
                         <Button variant="light" size='lg'>
-                            <ExternalLink href="https://github.com/mjpagenkopf/ecommerce_back_end">
+                            <ExternalLink href="https://github.com/mjpagenkopf/employee_tracker">
                                 <span>E-Commerce Application</span>
                             </ExternalLink>
                         </Button>
-                    </div>
-                    
+                    </div>   
                 </Col>
-                    <Col className="ecommerce-right text-center">
-                        <span>
+
+                <Col className="ecommerce-right text-center">
+                    <span>
                         <MonetizationOnIcon style={{ fontSize: 300 }} />
-                        </span>
-                    </Col>
+                    </span>
+                </Col>
             </Row>
           
     )

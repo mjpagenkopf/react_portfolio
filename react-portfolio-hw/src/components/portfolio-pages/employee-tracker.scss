@@ -1,7 +1,21 @@
 @import "../../global.scss";
 
 .employee-tracker {
-    background-color:darkkhaki;
-    background-color:transparent;
-    display: flex;
+    display:flex;
+    background-color:rgb(245, 255, 209);
+    align-items:center;
+    
+
+
+.employee-tracker-left {
+    justify-content:center;
+
+}
+
+.employee-tracker-right {
+    justify-content:flex-end;
+    
+}
+
+   
 }
