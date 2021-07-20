@@ -1,3 +1,10 @@
 .portfolio {
     background-color:gainsboro
 }
+
+.grid-container {
+    display:grid;
+    grid-gap:7px;
+    grid-template-columns:repeat(auto-fit);
+    justify-content:space-evenly;
+}
