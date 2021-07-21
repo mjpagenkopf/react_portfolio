@@ -15,7 +15,9 @@ function Contact() {
             style={{
                 backgroundImage: `url(${Dog})`,
                 backgroundSize: "cover",
-                height: "100vh",
+                backgroundRepeat: "no-repeat",
+                backgroundPosition: "center",
+                minHeight:"100vh",
                 color: "#f5f5f5"
         }}
         >

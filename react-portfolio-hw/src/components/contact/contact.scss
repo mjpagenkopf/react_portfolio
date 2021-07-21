@@ -2,7 +2,6 @@
 
 .contact {
     padding-top:20%;
-    // padding-right:10%;
     height:100vh;
     display:flex;
     justify-content:center;
@@ -12,13 +11,11 @@
     display:flex;
     justify-content:space-around;
     align-items:center;
-    
-    
-    
+
 }
 
   .color-overlay {
-    background-color:rgba(0,0,0,.8);
+    background-color:rgba(0,0,0,.6);
     min-height:100vh;
     
   }

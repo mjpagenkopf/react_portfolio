@@ -1,10 +1,9 @@
 import './about-me.scss'
 import React from 'react';
-// import { Container } from 'react-bootstrap';
 import Cambodia from '../images/cambodia.jpg';
-// import Profile from '../images/profile.jpg'
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
+
 
 
 export default function AboutMe() {
@@ -23,11 +22,11 @@ export default function AboutMe() {
         <Row className="about-me color-overlay text-center" id="about-me">
             
             <Col className="about-me-left text-center">
-                {/* <img src={process.env.PUBLIC_URL + "/IMG_4903_3.jpg"} width="300" alt="profile" /> */}
+                
             </Col>
             <Col className="about-me-right">
             <h1 className="text-center">About Me:</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae commodi nobis, ab asperiores quam officiis sapiente fugiat delectus dolores facilis minus necessitatibus libero beatae laboriosam magnam. Voluptatibus eum distinctio eos?</p>
+            <p>I'm an aspiring full-stack web programmer who has thrown himself into a new experience with a lot of knowledge to gain but a lot of heart to learn. Every new project is building on the last and I look forward to the road ahead. I also love my amazing dog, Auggie, and hope to keep traveling the world!</p>
             </Col>
         </Row>
         </div>
