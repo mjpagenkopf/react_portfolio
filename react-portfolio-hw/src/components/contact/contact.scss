@@ -1,5 +1,28 @@
+@import "../../global.scss";
+
 .contact {
-    background-color:aquamarine;
-    display: flex;
-    align-items: center;
+    padding-top:7%;
+    // padding-right:10%;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+  }
+
+  .email-input {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    
+    
+    
 }
+
+  .color-overlay {
+    background-color:rgba(0,0,0,.8);
+    min-height:100vh;
+    
+  }
+
+  
+
+  

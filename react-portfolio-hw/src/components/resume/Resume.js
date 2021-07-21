@@ -1,9 +1,9 @@
 import './resume.scss'
 import React from 'react';
-import Container from 'react-bootstrap/Container';
+// import Container from 'react-bootstrap/Container';
 // import Col from 'react-bootstrap/Col';
 // import Row from 'react-bootstrap/Row';
-import ResumeShot from '../images/resume_screenshot.jpg';
+import ResumeShot from '../images/resume.png';
 
 export default function Resume() {
     return (
