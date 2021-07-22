@@ -17,9 +17,9 @@ This is a my programmer portfolio site, built with React. Contains a landing pag
 
 The site itself is built using Node npm in React using Bootstrap. If running from local computer, will need to run npm install from the terminal and npm start to deploy to localhost. It is deployed using my Netlify account.
 
-![Homepage](./src/components/images/homepage.png)
+![Homepage](./react-portfolio-hw/src/components/images/homepage.png)
 
-![Portfolio](./src/components/images/projects.png)
+![Portfolio](./react-portfolio-hw/src/components/images/projects.png)
 
 ## Contribution Guidelines
 
