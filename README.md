@@ -1,6 +1,6 @@
 # Portfolio Site
 
-* [Mike Pagenkopf's Full Stack Programming Portfolio](https://mjpagenkopf-programming-portfolio.netlify.app/)
+* [Mike Pagenkopf's Full Stack Programming Portfolio](https://pagenkopf-portfolio.netlify.app)
 
 ## Description
 
