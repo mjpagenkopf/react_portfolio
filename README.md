@@ -1,6 +1,6 @@
 # Portfolio Site
 
-* Link to Netlify Live App: [Netlify App](https://mjpagenkopf-programming-portfolio.netlify.app/)
+* [Mike Pagenkopf's Full Stack Programming Portfolio](https://mjpagenkopf-programming-portfolio.netlify.app/)
 
 ## Description
 
@@ -15,7 +15,11 @@ This is a my programmer portfolio site, built with React. Contains a landing pag
 
 ## Installation
 
-The site itself is built using Node npm in React. Also contains bootstrap. If running from local computer, will need to run npm install from the terminal and npm start to deploy to localhost. It is deployed using my Github repo connected to my Netlify account.
+The site itself is built using Node npm in React using Bootstrap. If running from local computer, will need to run npm install from the terminal and npm start to deploy to localhost. It is deployed using my Netlify account.
+
+![Homepage](./src/components/images/homepage.png)
+
+![Portfolio](./src/components/images/projects.png)
 
 ## Contribution Guidelines
 
@@ -37,4 +41,4 @@ not applicable
 
 * Link to Repository: [Repository](https://github.com/mjpagenkopf/react_portfolio)
 
-* Link to Netlify Live App: [Netlify App](https://mjpagenkopf-programming-portfolio.netlify.app/)
+* Link to Netlify Live App: [Netlify App](https://pagenkopf-portfolio.netlify.app)
